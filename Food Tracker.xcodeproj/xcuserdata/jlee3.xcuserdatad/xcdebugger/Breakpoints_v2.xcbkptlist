@@ -97,5 +97,99 @@
             landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Food Tracker/MealViewController.swift"
+            timestampString = "519849388.491063"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "MealViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Food_Tracker.MealViewController.meal.getter : Swift.Optional&lt;Food_Tracker.Meal&gt;"
+                  moduleName = "Food Tracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jlee3/Desktop/Food%20Tracker/Food%20Tracker/MealViewController.swift"
+                  timestampString = "519864470.827125"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Food_Tracker.MealViewController.meal.setter : Swift.Optional&lt;Food_Tracker.Meal&gt;"
+                  moduleName = "Food Tracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jlee3/Desktop/Food%20Tracker/Food%20Tracker/MealViewController.swift"
+                  timestampString = "519864470.829294"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Food_Tracker.MealViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Food_Tracker.MealViewController"
+                  moduleName = "Food Tracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jlee3/Desktop/Food%20Tracker/Food%20Tracker/MealViewController.swift"
+                  timestampString = "519864470.831816"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "339">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Food_Tracker.MealViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Food_Tracker.MealViewController&gt;"
+                  moduleName = "Food Tracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jlee3/Desktop/Food%20Tracker/Food%20Tracker/MealViewController.swift"
+                  timestampString = "519864470.841116"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "238">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Food Tracker/Meal.swift"
+            timestampString = "519862758.343168"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "Meal"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
